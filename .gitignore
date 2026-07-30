@@ -1,0 +1,15 @@
+# Data files (too large for GitHub, and often contains sensitive info)
+data/raw/*.csv
+data/processed/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+
+# Mac
+.DS_Store
