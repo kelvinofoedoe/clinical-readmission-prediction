@@ -6,3 +6,4 @@ scikit-learn
 jupyter
 sqlalchemy
 psycopg2-binary
+xgboost
