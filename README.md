@@ -101,7 +101,7 @@ primarily for diabetes, versus a much smaller effect for patients admitted prima
 issues
 
 ## Repository Structure
-clinical-readmission-prediction/
+```
 ```
 clinical-readmission-prediction/
 ├── data/
@@ -117,19 +117,7 @@ clinical-readmission-prediction/
 │       └── shap_a1c_dependence_plot.png
 ├── requirements.txt
 └── README.md
-```├── data/
-│ ├── raw/ # original CSV (gitignored)
-│ └── processed/ # cleaned dataset (gitignored)
-├── models/
-│ └── xgb_readmission_model.pkl
-├── notebooks/
-│ └── 01_eda.ipynb # full analysis: cleaning, modeling, SHAP
-├── reports/
-│ └── figures/
-│ ├── shap_summary_plot.png
-│ └── shap_a1c_dependence_plot.png
-├── requirements.txt
-└── README.md
+```
 
 ## Reproducing This Analysis
 
