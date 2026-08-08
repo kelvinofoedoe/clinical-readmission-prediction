@@ -102,7 +102,6 @@ issues
 
 ## Repository Structure
 ```
-```
 clinical-readmission-prediction/
 ├── data/
 │   ├── raw/                  # original CSV (gitignored)
